@@ -1,0 +1,33 @@
+﻿  Queue.c
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(12,22): error C2011: 'Queue': 'struct' type redefinition
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.h(24): message : see declaration of 'Queue'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(28,12): warning C4013: 'make_empty' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(42,15): warning C4013: 'isEmpty' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(44,27): warning C4133: '=': incompatible types - from 'Node *' to 'intNode *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(45,21): warning C4133: '=': incompatible types - from 'Node *' to 'intNode *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(48,30): warning C4133: '=': incompatible types - from 'Node *' to 'intNode *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(54,13): warning C4013: 'IsEmpty' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(59,1): warning C4133: 'initializing': incompatible types - from 'intNode *' to 'Node *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(83,25): warning C4013: 'countQueue' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Queue.c(124,14): warning C4013: 'reverseQueue' undefined; assuming extern returning int
+  Stack.c
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(13,22): error C2011: 'Stack': 'struct' type redefinition
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.h(17): message : see declaration of 'Stack'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(20,14): warning C4047: '=': 'charNode *' differs in levels of indirection from 'int'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(26,12): warning C4013: 'make_empty' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(39,13): warning C4013: 'isEmpty' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(41,19): warning C4133: '=': incompatible types - from 'Node *' to 'charNode *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(46,24): warning C4133: '=': incompatible types - from 'charNode *' to 'Node *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(47,18): warning C4133: '=': incompatible types - from 'Node *' to 'charNode *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(56,3): warning C4033: 'pop' must return a value
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(59,15): warning C4133: '=': incompatible types - from 'charNode *' to 'Node *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(69,19): warning C4047: '==': 'charNode *const ' differs in levels of indirection from 'int'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(80,19): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(90,10): warning C4013: 'Push' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(96,23): warning C4013: 'Pop' undefined; assuming extern returning int
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(131,30): warning C4133: 'function': incompatible types - from 'charNode *' to 'const Node *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(131,31): warning C4133: '=': incompatible types - from 'Node *' to 'charNode *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(137,30): warning C4133: 'function': incompatible types - from 'charNode *' to 'const Node *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(137,31): warning C4133: '=': incompatible types - from 'Node *' to 'charNode *'
+C:\Users\עומר דהאן\source\repos\Adv_C_Exe3\Adv_C_Exe3\Stack.c(160,17): warning C4013: 'IsEmpty' undefined; assuming extern returning int
+  Generating Code...
